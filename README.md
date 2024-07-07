@@ -71,7 +71,7 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 **Empoderamento e Participação:** Indivíduos devem ser incentivados a compreender e influenciar o desenvolvimento e uso de IA em suas comunidades, promovendo uma adoção responsável e benéfica.
 
-## Seção 2: Estudo de Caso: Aplicação em Escolas
+## Estudo de Caso: Aplicação em Escolas
 
 ### 2.1: Implementação de IA na Educação
 **Personalização do Aprendizado:** Utilização de IA para adaptar o ensino às necessidades individuais dos alunos, promovendo um ambiente de aprendizado inclusivo e eficaz. Exemplos incluem plataformas de aprendizado adaptativo que ajustam o conteúdo com base no desempenho do aluno.
@@ -101,7 +101,7 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 **Colaboração Humano-IA:** Estratégias para promover uma interação saudável e equilibrada entre a tecnologia e a presença humana no ambiente educacional, garantindo que a tecnologia complemente e não substitua o papel dos educadores.
 
-## Seção 3: Impacto e Oportunidades Futuras
+## Impacto e Oportunidades Futuras
 
 ### 3.1: Potencial Transformador na Educação
 **Inovação e Adaptação Curricular:** Como a IA pode impulsionar a criação de currículos mais dinâmicos e alinhados com as necessidades do século 21, incorporando novas áreas de conhecimento e habilidades práticas.
@@ -131,26 +131,26 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 **Empoderamento e Autonomia:** Estratégias para capacitar os alunos a utilizar a IA de forma crítica, responsável e proativa em suas vidas cotidianas. Incentivar a criação de projetos e soluções que utilizem IA para resolver problemas reais em suas comunidades, promovendo a autonomia e a inovação.
 
-## Seção 4: Ferramentas e Recursos Educacionais Baseados em IA
+## Ferramentas e Recursos Educacionais Baseados em IA
 **Plataformas de Aprendizado Online:** Análise de plataformas que utilizam IA para oferecer cursos e treinamentos personalizados, como Khan Academy, Coursera, e Duolingo.
 
 **Tutoriais e Assistentes Virtuais:** Discussão sobre assistentes virtuais como o Google Classroom e Microsoft Teams que auxiliam na organização e gestão de atividades educacionais.
 
 **Laboratórios Virtuais e Simulações:** Exploração de como IA é utilizada em laboratórios virtuais para simular experimentos científicos e em simulações interativas para ensinar conceitos complexos de forma prática.
 
-## Seção 5: Experiências Práticas e Estudo de Caso
+## Experiências Práticas e Estudo de Caso
 **Implementação em Escolas Reais:** Apresentação de estudos de caso de escolas que implementaram IA com sucesso, destacando os resultados obtidos, desafios enfrentados e lições aprendidas.
 
 **Feedback de Educadores e Alunos:** Coleta e análise de feedback de educadores e alunos sobre suas experiências com ferramentas de IA, incluindo percepções sobre a eficácia, acessibilidade e impacto no aprendizado.
 
-## Seção 6: Futuro da Educação com IA
+## Futuro da Educação com IA
 **Tendências Emergentes:** Discussão sobre as tendências emergentes na educação com o uso de IA, incluindo a aprendizagem adaptativa, análise preditiva e realidade aumentada/virtual.
 
 **Impacto a Longo Prazo:** Reflexão sobre o impacto a longo prazo da IA na educação e como ela pode transformar a maneira como ensinamos e aprendemos, promovendo uma educação mais inclusiva, personalizada e eficaz.
 
 **Preparação para Mudanças Futuras:** Estratégias para preparar as instituições educacionais para futuras mudanças tecnológicas, garantindo que professores e alunos estejam prontos para adotar e adaptar-se às novas ferramentas e metodologias.
 
-## Seção 7: Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais
+## Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais
 
 ### 7.1: Dependência de IA para Tarefas Escolares
 **Crescimento da Dependência:** Aumento do uso de IA para realizar tarefas escolares, como escrever redações, resolver problemas matemáticos e realizar pesquisas.
