@@ -7,19 +7,17 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 * [Introdução às Inteligências Artificiais](#Introdução-às-Inteligências-Artificiais)
 
-**Seção 1:** Introdução às Inteligências Artificiais
+* [Estudo de Caso: Aplicação em Escolas](#Estudo-de-Caso:-Aplicação-em-Escolas)
 
-**Seção 2:** Estudo de Caso: Aplicação em Escolas
+* [Impacto e Oportunidades Futuras](#Impacto-e-Oportunidades-Futuras)
 
-**Seção 3:** Impacto e Oportunidades Futuras
+* [Ferramentas e Recursos Educacionais Baseados em IA](#Ferramentas-e-Recursos-Educacionais-Baseados-em-IA)
 
-**Seção 4:** Ferramentas e Recursos Educacionais Baseados em IA
+* [Experiências Práticas e Estudos de Caso](#Experiências-Práticas-e-Estudos-de-Caso)
 
-**Seção 5:** Experiências Práticas e Estudo de Caso
+* [Futuro da Educação com IA](#Futuro-da-Educação-com-IA)
 
-**Seção 6:** Futuro da Educação com IA
-
-**Seção 7:** Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais
+* [Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais](#Inteligência-Artificial-Realizando-Tarefas-pelos-Alunos:-Ética-e-Implicações-Educacionais)
 
 ## Introdução às Inteligências Artificiais
 
