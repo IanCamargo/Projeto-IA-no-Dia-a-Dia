@@ -5,7 +5,7 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 ## Índice
 
-* [Seção 1: Introdução às Inteligências Artificiais](#Seção-1:-Introdução-às-Inteligências-Artificiais)
+* [Introdução às Inteligências Artificiais](#Introdução-às-Inteligências-Artificiais)
 
 **Seção 1:** Introdução às Inteligências Artificiais
 
@@ -21,7 +21,7 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 **Seção 7:** Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais
 
-## Seção 1: Introdução às Inteligências Artificiais
+## Introdução às Inteligências Artificiais
 
 ### 1.1: O Que São Inteligências Artificiais?
 **Definição e Conceito:** As inteligências artificiais (IA) referem-se à simulação de processos de inteligência humana por sistemas de computador. Esses processos incluem aprendizado (a capacidade de melhorar o desempenho com base em experiências passadas), raciocínio (a capacidade de resolver problemas e tomar decisões), e autocompreensão (a capacidade de adaptar-se a novas situações).
