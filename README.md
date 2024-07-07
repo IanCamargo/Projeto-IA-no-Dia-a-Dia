@@ -9,6 +9,14 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 **Seção 3:** Impacto e Oportunidades Futuras
 
+**Seção 4:** Ferramentas e Recursos Educacionais Baseados em IA
+
+**Seção 5:** Experiências Práticas e Estudo de Caso
+
+**Seção 6:** Futuro da Educação com IA
+
+**Seção 7:** Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais
+
 ## Seção 1: Introdução às Inteligências Artificiais
 
 ### 1.1: O Que São Inteligências Artificiais?
