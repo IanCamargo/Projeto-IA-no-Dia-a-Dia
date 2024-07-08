@@ -7,7 +7,7 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 * [Introdução às Inteligências Artificiais](#Introdução-às-Inteligências-Artificiais)
 
-* [Estudo de Caso: Aplicação em Escolas](#Estudo-de-Caso-:-Aplicação-em-Escolas)
+* [Estudo de Caso: Aplicação em Escolas](#Estudo-de-Caso-Aplicação-em-Escolas)
 
 * [Impacto e Oportunidades Futuras](#Impacto-e-Oportunidades-Futuras)
 
@@ -17,7 +17,7 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 
 * [Futuro da Educação com IA](#Futuro-da-Educação-com-IA)
 
-* [Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais](#Inteligência-Artificial-Realizando-Tarefas-pelos-Alunos-:-Ética-e-Implicações-Educacionais)
+* [Inteligência Artificial Realizando Tarefas pelos Alunos: Ética e Implicações Educacionais](#Inteligência-Artificial-Realizando-Tarefas-pelos-Alunos-Ética-e-Implicações-Educacionais)
 
 ## Introdução às Inteligências Artificiais
 
