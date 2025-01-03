@@ -22,41 +22,44 @@ O projeto de apresentação foi criado devido a um convite realizado pelo grupo 
 # Estrutura da Apresentação
 
 ## 1. **Fundamentos da Inteligência Artificial**
-- **Definição de IA:** Capacidade das máquinas de realizar tarefas que requerem inteligência humana, como aprendizado, raciocínio e resolução de problemas.
-- **Aplicações da IA:** Uso em setores como saúde, finanças, transporte e entretenimento.
-- **Tipos de IA:** Inclui Aprendizado Profundo, Aprendizado de Máquina e Processamento de Linguagem Natural.
+### 1.1 Definição de IA:
+Capacidade das máquinas de realizar tarefas que requerem inteligência humana, como aprendizado, raciocínio e resolução de problemas.
+### 1.2 Aplicações da IA:
+Uso em setores como saúde, finanças, transporte e entretenimento.
+### 1.3 Tipos de IA:
+Inclui Aprendizado Profundo, Aprendizado de Máquina e Processamento de Linguagem Natural.
 
 ---
 
 ## 2. **Impacto da IA na Sociedade**
-### **Benefícios da IA**
+### **2.1 Benefícios da IA**
 - Automação de tarefas repetitivas.
 - Análise avançada de dados.
 - Suporte à tomada de decisões precisas.
 
-### **Riscos e Desafios**
+### **2.2 Riscos e Desafios**
 - Dependência excessiva e perda de habilidades humanas.
 - Preocupações éticas como privacidade e viés algorítmico.
 
-### **Equilíbrio entre Humanidade e Tecnologia**
+### **2.3 Equilíbrio entre Humanidade e Tecnologia**
 - Preservação das habilidades humanas para um futuro sustentável.
 
-### **Papel dos Jovens na IA**
+### **2.4 Papel dos Jovens na IA**
 - Importância dos jovens na moldagem do futuro da IA.
 
-### **Desenvolvimentos Futuros**
+### **2.5 Desenvolvimentos Futuros**
 - Avanços em medicina, sustentabilidade e inovação tecnológica.
 
 --
 
 ## 3. **Gerenciamento dos Riscos da IA**
-### **Inovação Responsável**
+### **3.1 Inovação Responsável**
 - Promoção de práticas responsáveis e avaliação contínua de impactos sociais e éticos.
 
-### **Ética na Pesquisa e Desenvolvimento**
+### **3.2 Ética na Pesquisa e Desenvolvimento**
 - Integração de considerações éticas em todas as fases de desenvolvimento.
 
-### **Personalização do Aprendizado**
+### **3.3 Personalização do Aprendizado**
 - Adaptação do ensino às necessidades individuais dos alunos.
 
 ---
